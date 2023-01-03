@@ -1,7 +1,7 @@
-<center>
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InSTinToS&count_private=true&show_icons=true&theme=dracula)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InSTinToS&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<center>
+</div>
 <!--
 **InSTinToS/InSTinToS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

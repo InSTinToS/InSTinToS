@@ -6,23 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=instintos&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="instintos" /> 
 </p>
 
-<!-- Stats -->
-<div align="center" style="display:flex; justify-content:space-evenly;margin: 48px 0px 48px 0px;">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InSTinToS&count_private=true&locale=pt-br" alt="instintos" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=InSTinToS&show_icons=true" alt="instintos" />
-  </p>
-</div>
-
-<!-- Trophy -->
-<p align="center" style="margin: 48px 0px 48px 0px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=instintos&row=1" alt="instintos" />
-  </a> 
-</p>
 
 <!-- Techs -->
 <p align="center">
@@ -32,25 +15,43 @@
 
 
 
+<!-- Stats -->
+<div align="center" style="display:flex; justify-content:space-evenly;margin: 48px 0px 48px 0px;">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InSTinToS&count_private=true&locale=pt-br&theme=github_dark" alt="instintos" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=InSTinToS&show_icons=true&theme=github_dark" alt="instintos" />
+  </p>
+</div>
+
+<!-- Trophy -->
+<p align="center" style="margin: 48px 0px 48px 0px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=instintos&row=1&theme=tokyonight" alt="instintos" />
+  </a> 
+</p>
+
 
 <!-- Links -->
 <div align="center" style="display:flex;justify-content:space-between;padding: 0 32px">
   <div>
-    <a href="https://linkedin.com/in/miguel-andrade-barreto-b0b410191" target="blank">
-      <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="18" width="18" />
-      <span>Miguel Andrade</span>
+    <a href="https://linkedin.com/in/miguel-andrade-barreto-b0b410191" target="blank" style="display:flex">
+      <h4><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="18" width="18" />
+      Miguel Andrade</span>
     </a>
   </div>
   
   <div>
-    👨‍💻 <a href="https://www.miguelbarreto.dev/">miguelbarreto.dev</a>
+    <h4>👨‍💻 <a href="https://www.miguelbarreto.dev/">miguelbarreto.dev</a></h4>
   </div>
   
   <div>
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Miguel Andrade#6181" height="24" width="24" /><span>&nbsp;Miguel Andrade#6181</span>
+    <h4><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Miguel Andrade#6181" height="24" width="24" />&nbsp;Miguel Andrade#6181</h4>
   </div>
 
   <div>
-    📫 <span>miguelandradebarreto2<i>@</i>gmail<i>.</i>com</span>
+    <h4>📫 miguelandradebarreto2<i>@</i>gmail<i>.</i>com</h4>
   </div>
 </div>

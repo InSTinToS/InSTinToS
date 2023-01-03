@@ -21,22 +21,26 @@
 
 <!-- Stats -->
 <p align="center" style="display:flex; justify-content:space-evenly;margin: 48px 0px 48px 0px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InSTinToS" alt="instintos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InSTinToS&show_icons=true" alt="instintos" />
+</p>
+
+<p align="center" style="display:flex; justify-content:space-evenly;margin: 48px 0px 48px 0px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InSTinToS&count_private=true&locale=pt-br" alt="instintos" />
 </p>
 
 <!-- Links -->
 <div align="center" style="display:flex;justify-content:space-between;padding: 0 32px">
-  <div>
-    👨‍💻 <a href="https://www.miguelbarreto.dev/">miguelbarreto.dev</a>
-  </div>
-
   <div>
     <a href="https://linkedin.com/in/miguel-andrade-barreto-b0b410191" target="blank">
       <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="18" width="18" />
       <span>Miguel Andrade</span>
     </a>
   </div>
-
+  
+  <div>
+    👨‍💻 <a href="https://www.miguelbarreto.dev/">miguelbarreto.dev</a>
+  </div>
+  
   <div>
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Miguel Andrade#6181" height="24" width="24" /><span>&nbsp;Miguel Andrade#6181</span>
   </div>
